@@ -1,0 +1,2 @@
+# courses
+self-training courses
